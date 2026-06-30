@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+*.memory-card.json
+settings.json
+.claude/
+.omc/
+.DS_Store
